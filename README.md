@@ -1,4 +1,6 @@
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74C92&width=435&lines=Welcome+to+my+GitHub!;Bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg) 
+  <br>
 <h1 align="center"style="color=#E94D5F">Karine Meireles 💻</h1>
 
 <p align="center">Product Owner specializing in QA and Artificial Intelligence, with a degree in Business Administration and 12 years of experience in the financial sector. My passion for technology has always been evident, but the need to transition to the product and technology field arose from the desire to contribute effectively to processes, leveraging the experience gained during my journey in the banking industry.</p>
