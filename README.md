@@ -23,7 +23,7 @@ Minha paixão pela tecnologia sempre foi evidente, mas a necessidade de migrar p
 <br>
 <br>
 
-  <h2 align="center"> Certifications:</h2>
+  <h2 align="center"> Certifications | Certificações:</h2>
 
   <div align="center">
 
@@ -39,7 +39,7 @@ Minha paixão pela tecnologia sempre foi evidente, mas a necessidade de migrar p
 
 <br>
 <br>
-  <h2 align="center"> Connect with Me:</h2>
+  <h2 align="center"> Connect with Me | Conecte-se comigo:</h2>
   
     
 <div align="center">
@@ -58,7 +58,7 @@ Minha paixão pela tecnologia sempre foi evidente, mas a necessidade de migrar p
 
 
 
- <h2 align="center"> GitHub Stats:</h2>
+ <h2 align="center"> GitHub Stats | Estatus do GitHub:</h2>
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinemeireles&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
