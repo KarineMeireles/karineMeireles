@@ -3,40 +3,68 @@
   <br>
 <h1 align="center"style="color=#E94D5F">Karine Meireles 💻</h1>
 
-<p align="center">Product Owner specializing in QA and Artificial Intelligence, with a degree in Business Administration and 12 years of experience in the financial sector. My passion for technology has always been evident, but the need to transition to the product and technology field arose from the desire to contribute effectively to processes, leveraging the experience gained during my journey in the banking industry.</p>
-<p align="center">💟</p>
-<p align="center">Passionate about technology, digital transformation, and value creation, my hobbies include running, watching movies and series, spending time with my family, and enjoying moments with God.</p>
+<div align="center">
+  
+Sou uma **Product Owner** apaixonada por *Inteligência Artificial*. 
+Tomo decisões orientadas por dados e acredito em um futuro onde a transformação acontece por meio da democratização da informação — gerando impacto real na vida das pessoas por meio de experiências de valor.
+
+Graduada em **Administração de Empresas**, estudante de **Gestão da Tecnologia da Informação**, tenho 12 anos de experiência no setor financeiro.  
+Apaixonada por **tecnologia**, **transformação digital** e **maximização de valor para o usuário**.  
+
+Hobbies: *Corrida*, *filmes e séries*, *família* e *momentos com Deus*.  
+
+</div>
+
 
 
 
 
   -----------------------------------------
 
+
   
-<p align="center">Product Owner se especializando em QA e Inteligência Artificial, graduada em Administração de Empresas, com 12 anos de experiência no setor financeiro. 
-Minha paixão pela tecnologia sempre foi evidente, mas a necessidade de migrar para a área de produtos e tecnologia surgiu da vontade de contribuir efetivamente com os processos, aproveitando a experiência adquirida durante minha trajetória no segmento bancário.</p>
-<p align="center">💟</p>
-<p align="center">Apaixonada por tecnologia, transformação digital e criação de valor, meus hobbies incluem corrida, assistir filmes e séries, passar momentos com minha família e desfrutar de momentos com Deus.</p>
-
-
-
-<br>
-<br>
-
-  <h2 align="center"> Certifications | Certificações:</h2>
-
+  <BR>
+    
   <div align="center">
+    
+  ## Habilidades Técnicas 
+<div align="center">
 
-| Certification | Institution |
-|-----:|---------------|
-| CPA10 | ANBIMA |
-| CEA | ANBIMA  |
-| SFPC | CERTIPROF |
-| SFC | SCRUMSTUDY  |
-| RWPC | CERTIFPROF |
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 </div>
 
+
+
+<br>
+<br>
+
+
+  <div align="center">
+
+## Formação Acadêmica
+- **Gestão da Tecnologia da Informação** – Universidade Anhembi Morumbi (Cursando).  
+- **Administração e Comércio Exterior** – Universidade Cruzeiro do Sul (2007 – 2011).  
+
+
+
+<BR>
+
+## Certificações
+| Certificação                             | Instituição   |
+|-------------------------------------------|---------------|
+| SFPCTM - Scrum Foundation Professional Certification | CertiProf     |
+| SFCTM - Scrum Foundation Certified        | SCRUMstudy    |
+| ASFC - Accredited Scrum Fundamental Certification | AICS          |
+| DSPCTM - Design Sprint Professional Certification | CertiProf     |
+| Lean Six Sigma White Belt                 | FM2S          |
+| OKR – Objectives and Key Results          | FM2S          |
+| CEA – ANBIMA                              | ANBIMA        |
 <br>
 <br>
   <h2 align="center"> Connect with Me | Conecte-se comigo:</h2>
@@ -64,6 +92,8 @@ Minha paixão pela tecnologia sempre foi evidente, mas a necessidade de migrar p
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinemeireles&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karinemeireles&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karinemeireles&theme=radical&fire=E94D5F&ring=E94D5F)
 
 </div>
 
