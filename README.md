@@ -52,8 +52,9 @@ Hobbies: *Corrida*, *filmes e séries*, *família* e *momentos com Deus*.
 ## Certificações
 | Certificação                             | Instituição   |
 |-------------------------------------------|---------------|
-| SFPCTM - Scrum Foundation Professional Certification | CertiProf     |
-| SFCTM - Scrum Foundation Certified        | SCRUMstudy    |
+| PSM I - Professional Scrum Master | Scrum.org     |
+| SFPC - Scrum Foundation Professional Certification | CertiProf     |
+| SFC - Scrum Foundation Certified        | SCRUMstudy    |
 | ASFC - Accredited Scrum Fundamental Certification | AICS          |
 | DSPCTM - Design Sprint Professional Certification | CertiProf     |
 | Lean Six Sigma White Belt                 | FM2S          |
